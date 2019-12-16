@@ -1,0 +1,12 @@
+C:\Users\khaddad\Documents\FoodManager\FoodManager\FoodManager.Data\bin\Debug\netcoreapp2.1\FoodManager.Data.deps.json
+C:\Users\khaddad\Documents\FoodManager\FoodManager\FoodManager.Data\bin\Debug\netcoreapp2.1\FoodManager.Data.dll
+C:\Users\khaddad\Documents\FoodManager\FoodManager\FoodManager.Data\bin\Debug\netcoreapp2.1\FoodManager.Data.pdb
+C:\Users\khaddad\Documents\FoodManager\FoodManager\FoodManager.Data\bin\Debug\netcoreapp2.1\FoodManager.Core.dll
+C:\Users\khaddad\Documents\FoodManager\FoodManager\FoodManager.Data\bin\Debug\netcoreapp2.1\FoodManager.Core.pdb
+C:\Users\khaddad\Documents\FoodManager\FoodManager\FoodManager.Data\obj\Debug\netcoreapp2.1\FoodManager.Data.csprojAssemblyReference.cache
+C:\Users\khaddad\Documents\FoodManager\FoodManager\FoodManager.Data\obj\Debug\netcoreapp2.1\FoodManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\khaddad\Documents\FoodManager\FoodManager\FoodManager.Data\obj\Debug\netcoreapp2.1\FoodManager.Data.AssemblyInfoInputs.cache
+C:\Users\khaddad\Documents\FoodManager\FoodManager\FoodManager.Data\obj\Debug\netcoreapp2.1\FoodManager.Data.AssemblyInfo.cs
+C:\Users\khaddad\Documents\FoodManager\FoodManager\FoodManager.Data\obj\Debug\netcoreapp2.1\FoodManager.Data.csproj.CopyComplete
+C:\Users\khaddad\Documents\FoodManager\FoodManager\FoodManager.Data\obj\Debug\netcoreapp2.1\FoodManager.Data.dll
+C:\Users\khaddad\Documents\FoodManager\FoodManager\FoodManager.Data\obj\Debug\netcoreapp2.1\FoodManager.Data.pdb

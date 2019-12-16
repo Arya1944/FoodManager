@@ -1,0 +1,15 @@
+﻿@page 
+@model FoodManager.Pages.Restaurants.DetailsModel
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>@Model.Restaurant.Name</h2>
+
+<div>
+    @Model.Restaurant.Location
+    @Model.Restaurant.ID
+</div>
+
+
+<a asp-page="./List" class="btn btn-default">All restaurants</a>

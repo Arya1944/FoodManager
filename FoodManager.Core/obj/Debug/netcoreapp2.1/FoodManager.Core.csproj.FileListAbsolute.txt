@@ -1,0 +1,9 @@
+C:\Users\khaddad\Documents\FoodManager\FoodManager\FoodManager.Core\bin\Debug\netcoreapp2.1\FoodManager.Core.deps.json
+C:\Users\khaddad\Documents\FoodManager\FoodManager\FoodManager.Core\bin\Debug\netcoreapp2.1\FoodManager.Core.dll
+C:\Users\khaddad\Documents\FoodManager\FoodManager\FoodManager.Core\bin\Debug\netcoreapp2.1\FoodManager.Core.pdb
+C:\Users\khaddad\Documents\FoodManager\FoodManager\FoodManager.Core\obj\Debug\netcoreapp2.1\FoodManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\khaddad\Documents\FoodManager\FoodManager\FoodManager.Core\obj\Debug\netcoreapp2.1\FoodManager.Core.AssemblyInfoInputs.cache
+C:\Users\khaddad\Documents\FoodManager\FoodManager\FoodManager.Core\obj\Debug\netcoreapp2.1\FoodManager.Core.AssemblyInfo.cs
+C:\Users\khaddad\Documents\FoodManager\FoodManager\FoodManager.Core\obj\Debug\netcoreapp2.1\FoodManager.Core.dll
+C:\Users\khaddad\Documents\FoodManager\FoodManager\FoodManager.Core\obj\Debug\netcoreapp2.1\FoodManager.Core.pdb
+C:\Users\khaddad\Documents\FoodManager\FoodManager\FoodManager.Core\obj\Debug\netcoreapp2.1\FoodManager.Core.csprojAssemblyReference.cache

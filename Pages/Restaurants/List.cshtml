@@ -1,0 +1,47 @@
+﻿@page
+@model ListModel
+@{
+    ViewData["Title"] = "List";
+}
+
+<h2>List</h2>
+
+@Model.Message
+<form  method="get">
+    <div class="form-group">
+        <label for="name">Name</label>
+        <input type="search" class="form-control" asp-for="SearchName"  placeholder="Enter Name">
+        <span class="input-group-btn">
+            <button  class="btn btn-default"><i class="glyphicon glyphicon-search"></i></button>
+        </span>
+    </div>
+    
+</form>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Location</th>
+                <th scope="col">Cuisine</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var r in Model.restaurants)
+            {
+                <tr>
+                    <th scope="row"> 
+                    <a  class="btn btn-lg" asp-page="./Details" asp-route-restaurantId="@r.ID">
+                        @r.ID</a> </th>
+                    <td>@r.Name</td>
+                    <td>@r.Location</td>
+                    <td>@r.Cuisine</td>
+                    <td> <a class="btn btn-lg" asp-page="./Details" asp-route-restaurantId="@r.ID"><i class="glyphicon glyphicon-edit" ></i></a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+
+
